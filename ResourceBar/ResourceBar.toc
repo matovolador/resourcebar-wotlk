@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: ResourceBar
+## Version: 1
+## Author: Garaleos
+## SavedVariables: RB_Settings
+
+ResourceBar.lua
