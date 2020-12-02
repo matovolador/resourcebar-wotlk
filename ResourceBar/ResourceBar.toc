@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## Title: ResourceBar
-## Version: 1
+## Version: 1.0.0
 ## Author: Garaleos
 ## SavedVariables: RB_Settings
 
